@@ -2,18 +2,18 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/6285875158363
+wa.me/6285854337533
 
 Minimal Kasih Cr kalo mau reupload😡
 Create By Dika Ardnt.
-Recode By Naze & ( Nama Lu )
+Recode By Xynels
 
 Kalau Sampai Ketemu Lagi Creator Bot
 Yg Reupload Tanpa Kasih Cr 
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : Naze & ( Nama Lu )
+Recode : Xynels
 
 **/
 
@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['6285854337533']
+global.ownernomer = "6285854337533"
+global.premium = ['6285854337533']
+global.packname = 'ꪶ᭢ιиfιиєℓʂꪶ᭢'
+global.author = '© 𝘽𝙮 𝙓𝙮𝙣𝙚𝙡𝙨 '
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -43,18 +43,18 @@ global.jumlah = '1000000000'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: '✅Done',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    errapi: 'Error Mungkin Apikey Tidak Valid!',
-    errmor: 'Error Kesalahan Sistem',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    success: '✅𝙳𝚘𝚗𝚎',
+    admin: '𝙵𝚒𝚝𝚞𝚛 𝙺𝚑𝚞𝚜𝚞𝚜 𝙰𝚍𝚖𝚒𝚗 𝙶𝚛𝚘𝚞𝚙!',
+    botAdmin: '𝙱𝚘𝚝 𝙷𝚊𝚛𝚞𝚜 𝙼𝚎𝚗𝚓𝚊𝚍𝚒 𝙰𝚍𝚖𝚒𝚗 𝚃𝚎𝚛𝚕𝚎𝚋𝚒𝚑 𝙳𝚊𝚑𝚞𝚕𝚞!',
+    premime: '𝙵𝚒𝚝𝚞𝚛 𝙺𝚑𝚞𝚜𝚞𝚜 𝙿𝚛𝚎𝚖𝚒𝚞𝚖 𝙺𝚊𝚕𝚘 𝙼𝚊𝚞 𝙳𝚊𝚏𝚝𝚊𝚛 𝙺𝚎𝚝𝚒𝚔 𝚂𝚎𝚠𝚊',
+    owner: '𝙵𝚒𝚝𝚞𝚛 𝙺𝚑𝚞𝚜𝚞𝚜 𝙾𝚠𝚗𝚎𝚛 𝙱𝚘𝚝',
+    group: '𝙵𝚒𝚝𝚞𝚛 𝙳𝚒𝚐𝚞𝚗𝚊𝚔𝚊𝚗 𝙷𝚊𝚗𝚢𝚊 𝚄𝚗𝚝𝚞𝚔 𝙶𝚛𝚘𝚞𝚙!',
+    private: '𝙵𝚒𝚝𝚞𝚛 𝙳𝚒𝚐𝚞𝚗𝚊𝚔𝚊𝚗 𝙷𝚊𝚗𝚢𝚊 𝚄𝚗𝚝𝚞𝚔 𝙿𝚛𝚒𝚟𝚊𝚝𝚎 𝙲𝚑𝚊𝚝!',
+    bot: '𝙵𝚒𝚝𝚞𝚛 𝙺𝚑𝚞𝚜𝚞𝚜 𝙿𝚎𝚗𝚐𝚐𝚞𝚗𝚊 𝙽𝚘𝚖𝚘𝚛 𝙱𝚘𝚝',
+    wait: '𝙻𝚘𝚊𝚍𝚒𝚗𝚐 ...',
+    errapi: '𝙴𝚛𝚛𝚘𝚛 𝙰𝚙𝚒𝚔𝚎𝚢 𝚃𝚒𝚍𝚊𝚔 𝚅𝚊𝚕𝚒𝚍!',
+    errmor: '𝙴𝚛𝚛𝚘𝚛 𝙺𝚎𝚜𝚊𝚕𝚊𝚑𝚊𝚗 𝚂𝚒𝚜𝚝𝚎𝚖',
+    endLimit: '𝙻𝚒𝚖𝚒𝚝 𝙷𝚊𝚛𝚒𝚊𝚗 𝙰𝚗𝚍𝚊 𝚃𝚎𝚕𝚊𝚑 𝙷𝚊𝚋𝚒𝚜, 𝙻𝚒𝚖𝚒𝚝 𝙰𝚔𝚊𝚗 𝙳𝚒𝚛𝚎𝚜𝚎𝚝 𝚂𝚎𝚝𝚒𝚊𝚙 𝙹𝚊𝚖 𝟷𝟸',
 }
 global.limitawal = {
     premium: "Infinity",
@@ -66,9 +66,9 @@ global.mygit = 'https://github.com/nazedev'
 global.myyt = 'https://youtube.com/c/Nazedev'
 global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
 global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.botname = 'ꪶ᭢ ‹ ιиfιиєℓʂ › ꪶ᭢'
+global.akulaku = 'Bot By Xynels'
+global.ytname = 'YT XYNELS DESIGN'
 
 
 let file = require.resolve(__filename)
