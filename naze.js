@@ -2,7 +2,7 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/6285875158363
+wa.me/6285854337533
 
 Minimal Kasih Cr kalo mau reupload😡
 
@@ -11,7 +11,7 @@ Yg Reupload Tanpa Kasih Cr
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : Naze & ( Nama Lu )
+Recode : Xynels
 
 **/
 
